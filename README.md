@@ -1,5 +1,7 @@
 Project made during Udemy React+Redux course (author: https://github.com/15Dkatz)
 
+Build version: https://ressvieth.github.io/signup;
+
 -> clone repo
 
 -> npm install
