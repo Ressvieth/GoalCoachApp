@@ -1,6 +1,6 @@
 Project made during Udemy React+Redux course (author: https://github.com/15Dkatz)
 
-Build version: https://ressvieth.github.io/signup;
+Build version: https://ressvieth.github.io/
 
 -> clone repo
 
